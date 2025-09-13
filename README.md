@@ -1,5 +1,8 @@
 
-# Sudonym-i 
+## Isaac K.
+
+**Make cool stuff**
+
 ![example_increasing_mass](https://github.com/user-attachments/assets/e46cce9b-97fb-445c-b338-9a7baf30197b) 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,bash,js,react,java,html,cmake,linux,git,netlify,npm,obsidian,raspberrypi,arduino,eclipse,emacs,neovim,mysql,nodejs,powershell,css&perline=9)](https://skillicons.dev)
 
