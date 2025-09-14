@@ -8,7 +8,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,bash,js,react,java,html,cmake,linux,git,netlify,npm,obsidian,raspberrypi,arduino,eclipse,emacs,neovim,mysql,nodejs,powershell,css&perline=9)](https://skillicons.dev)
 ## Stats for nerds
 ![sudonym-i's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudonym-i&theme=gruvbox&hide_border=false) 
-![sudonym-i's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudonym-i&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/3cdb898e-f3d0-4415-bdba-600ca59087eb.png" width="300px"/></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/b8d60f4d-8382-441f-acd8-dd0b3bb5ae62.png" width="500px"/></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/3cdb898e-f3d0-4415-bdba-600ca59087eb.png" width="300px"/></a>
