@@ -18,8 +18,8 @@
 ##  Stats for Nerds
 
 ### GitHub Streak
-![sudonym-i's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudonym-i&theme=gruvbox&hide_border=false) 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/3cdb898e-f3d0-4415-bdba-600ca59087eb.png" width="300px"/></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sudonym-i&theme=gruvbox-duo" alt="" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/dd96c4d3-cf0c-4fea-9dfb-7e7a7314f7b3.png" width="300px" /></a>
 
 
 ###  Coding Activity
@@ -27,7 +27,7 @@
 
 <p>
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@izzzzzy/b8d60f4d-8382-441f-acd8-dd0b3bb5ae62.png" width="500px" alt="Language Usage Stats"/>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/ff6c8641-70da-40e9-a37c-c41a18cc0b64.png"  width="500px" /></a>
   </a>
 </p>
 
