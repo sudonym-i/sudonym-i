@@ -3,8 +3,6 @@
 
 # Isaac K.
 
-### **Make cool stuff**
-
 ![example_increasing_mass](https://github.com/user-attachments/assets/e46cce9b-97fb-445c-b338-9a7baf30197b)
 
 ---
@@ -18,7 +16,6 @@
 ##  Stats for Nerds
 
 ### Coding Time:
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sudonym-i&theme=gruvbox-duo?refresh=true" alt="" /></a>
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/3c241c76-99c4-4548-af8c-3f4ec2b1b0c8.png?refresh=true" width="400px" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/dd96c4d3-cf0c-4fea-9dfb-7e7a7314f7b3.png?refresh=true" width="400px" /></a>
 
@@ -27,9 +24,7 @@
 
 
 <p>
-  <a href="https://wakatime.com">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/ff6c8641-70da-40e9-a37c-c41a18cc0b64.png?refresh=true"  width="500px" /></a>
-  </a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@izzzzzy/876cb10a-e8c5-4b2c-a9cb-d0a75b7e5cba.png?refresh=true"  width="500px"/></a>
 </p>
 
 ---
