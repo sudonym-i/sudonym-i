@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,bash,js,react,java,html,cmake,linux,git,netlify,obsidian,raspberrypi,arduino,mysql,flask,nodejs,powershell,css&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,bash,js,react,java,html,cmake,linux,git,rails,raspberrypi,arduino,mysql,flask,css&perline=9)](https://skillicons.dev)
 
 ---
 
